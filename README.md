@@ -49,8 +49,4 @@ The live connection reader in the supplied script uses netstat -ano and parses T
 A publisher/signature result or trusted status is only one signal; it does not establish that an application is safe.
 Firewall changes require appropriate Windows permissions and may be limited by Group Policy or other management software.
 Contributing
-Bug reports and pull requests are welcome. Please include your Windows version, PowerShell version, steps to reproduce, and relevant error-log excerpt. Remove usernames, IP addresses, and other sensitive information before posting logs publicly.
-
-License
-No license has been specified yet. Add a LICENSE file before presenting this project as open source; without one, normal copyright restrictions apply.
 
